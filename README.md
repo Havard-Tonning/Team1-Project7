@@ -3,13 +3,13 @@
 Team members: Antonij Conev, Dobrinka Gocheva, Håvard Tonning, Lyuboslav Gigov, Theodore Boyadjiev
 
 Plan:
-Create a program that reads a 4-digit input from the user. If the number is valid, it checks if it is a telemarketer and outputs the result.
+Create a program that reads a 4-digit input from the user. If the number is valid, it checks if it is a telemarketer and outputs the result. \n
 
 
 
 How:
 Initialize the Scanner:
-Create a Scanner object to read user input.
+Create a Scanner object to read user input. \n \n
 
 Prompt for User Input:
 Display a message asking the user to enter a four-digit phone number.
